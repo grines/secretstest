@@ -1,0 +1,5 @@
+user:password
+
+AKIA1234
+
+thisisatest0987654321
